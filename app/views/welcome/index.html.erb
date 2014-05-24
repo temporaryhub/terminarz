@@ -1,0 +1,7 @@
+<h1>Welcome#index</h1>
+
+<%= javascript_tag do %>
+  window.schedules = <%= raw @schedules.to_json; %>
+<% end %>
+
+<div id='calendar'></div>
