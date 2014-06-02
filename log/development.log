@@ -1,0 +1,2990 @@
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-01 12:22:23 +0200
+Processing by WelcomeController#index as HTML
+  [1m[36mSchedule Load (9.2ms)[0m  [1mSELECT `Schedules`.* FROM `Schedules`[0m
+  Rendered welcome/index.html.erb within layouts/application (84.7ms)
+Completed 200 OK in 1824ms (Views: 1618.2ms | ActiveRecord: 10.5ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-01 12:22:26 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-01 12:22:26 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-01 12:22:26 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-01 12:22:26 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-01 12:22:26 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-01 12:22:26 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-01 12:22:26 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-01 12:22:26 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-01 12:22:26 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-01 12:30:56 +0200
+Processing by WelcomeController#index as HTML
+  [1m[36mSchedule Load (0.6ms)[0m  [1mSELECT `Schedules`.* FROM `Schedules`[0m
+  Rendered welcome/index.html.erb within layouts/application (116.5ms)
+Completed 200 OK in 685ms (Views: 375.7ms | ActiveRecord: 12.8ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-01 12:30:57 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-01 12:30:57 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-01 12:30:57 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-01 12:30:58 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-01 12:30:58 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-01 12:30:58 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-01 12:30:58 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-01 12:30:58 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-01 12:30:58 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-01 12:50:22 +0200
+Processing by WelcomeController#index as HTML
+  [1m[36mSchedule Load (0.5ms)[0m  [1mSELECT `Schedules`.* FROM `Schedules`[0m
+  Rendered welcome/index.html.erb within layouts/application (101.0ms)
+Completed 200 OK in 577ms (Views: 360.2ms | ActiveRecord: 3.8ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-01 12:50:24 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-01 12:50:24 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-01 12:50:24 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-01 12:50:24 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-01 12:50:24 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-01 12:50:24 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-01 12:50:24 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-01 12:50:24 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-01 12:50:24 +0200
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-06-01 12:51:58 +0200
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (5.9ms)
+Completed 200 OK in 1078ms (Views: 968.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-01 12:52:00 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-01 12:52:00 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-01 12:52:00 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-01 12:52:00 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-01 12:52:00 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-01 12:52:00 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-01 12:52:00 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-01 12:52:00 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-01 12:52:01 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-01 12:52:01 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-01 12:52:01 +0200
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-06-01 13:09:34 +0200
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (20.5ms)
+Completed 200 OK in 659ms (Views: 453.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-01 13:09:36 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-01 13:09:36 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-01 13:09:36 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-01 13:09:36 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-01 13:09:36 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-01 13:09:36 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-01 13:09:36 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-01 13:09:36 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-01 13:09:36 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-01 13:09:36 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-01 13:09:36 +0200
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-06-01 13:10:20 +0200
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 83ms (Views: 81.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-01 13:10:20 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-01 13:10:20 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-01 13:10:21 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-01 13:10:21 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-01 13:10:21 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-01 13:10:21 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-01 13:10:21 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-01 13:10:21 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-01 13:10:21 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-01 13:10:21 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-01 13:10:21 +0200
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-06-01 13:13:02 +0200
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 79ms (Views: 66.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-01 13:13:03 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-01 13:13:03 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-01 13:13:03 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-01 13:13:03 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-01 13:13:03 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-01 13:13:03 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-01 13:13:03 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-01 13:13:03 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-01 13:13:03 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-01 13:13:03 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-01 13:13:03 +0200
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-06-01 13:13:22 +0200
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 54ms (Views: 53.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-01 13:13:22 +0200
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-01 13:13:22 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-01 13:13:22 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-01 13:13:22 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-01 13:13:22 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-01 13:13:23 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-01 13:13:23 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-01 13:13:23 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-01 13:13:23 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-01 13:13:23 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-01 13:13:23 +0200
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-06-01 13:15:50 +0200
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 64ms (Views: 60.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-01 13:15:50 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-01 13:15:50 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-01 13:15:50 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-01 13:15:50 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-01 13:15:50 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-01 13:15:50 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-01 13:15:50 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-01 13:15:50 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-01 13:15:50 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-01 13:15:50 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-01 13:15:50 +0200
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-06-01 13:18:45 +0200
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 81ms (Views: 73.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-01 13:18:46 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-01 13:18:46 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-01 13:18:46 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-01 13:18:46 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-01 13:18:46 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-01 13:18:46 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-01 13:18:46 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-01 13:18:46 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-01 13:18:46 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-01 13:18:46 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-01 13:18:46 +0200
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-06-01 13:26:11 +0200
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 106ms (Views: 98.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-01 13:26:11 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-01 13:26:11 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-01 13:26:11 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-01 13:26:11 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-01 13:26:12 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-01 13:26:12 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-01 13:26:12 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-01 13:26:12 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-01 13:26:12 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-01 13:26:12 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-01 13:26:12 +0200
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-06-01 13:29:10 +0200
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 10909ms (Views: 10790.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-01 13:29:21 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-01 13:29:21 +0200
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-01 13:29:21 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-01 13:29:21 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-01 13:29:21 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-01 13:29:21 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-01 13:29:22 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-01 13:29:22 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-01 13:29:22 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-01 13:29:22 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-01 13:29:22 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-01 13:29:22 +0200
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-06-01 13:29:44 +0200
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 4254ms (Views: 4251.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-01 13:29:48 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-01 13:29:48 +0200
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-01 13:29:48 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-01 13:29:48 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-01 13:29:48 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-01 13:29:48 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-01 13:29:48 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-01 13:29:48 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-01 13:29:48 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-01 13:29:48 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-01 13:29:48 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-01 13:29:48 +0200
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-06-01 13:30:23 +0200
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 4148ms (Views: 4146.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-01 13:30:27 +0200
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-01 13:30:27 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-01 13:30:27 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-01 13:30:27 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-01 13:30:27 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-01 13:30:28 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-01 13:30:28 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-01 13:30:28 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-01 13:30:28 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-01 13:30:28 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-01 13:30:28 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-01 13:30:28 +0200
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-06-01 13:30:58 +0200
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 98ms (Views: 96.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-01 13:30:58 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-01 13:30:58 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-01 13:30:59 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-01 13:30:59 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-01 13:30:59 +0200
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-01 13:30:59 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-01 13:30:59 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-01 13:30:59 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-01 13:30:59 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-01 13:30:59 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-01 13:30:59 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-01 13:30:59 +0200
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-06-01 13:31:24 +0200
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 4147ms (Views: 4133.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-01 13:31:28 +0200
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-01 13:31:28 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-01 13:31:28 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-01 13:31:28 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-01 13:31:28 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-01 13:31:28 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-01 13:31:28 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-01 13:31:28 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-01 13:31:28 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-01 13:31:28 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-01 13:31:29 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-01 13:31:29 +0200
+
+
+Started GET "/static_pages/home" for 127.0.0.1 at 2014-06-01 13:36:39 +0200
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_shim.html.erb (1.3ms)
+  Rendered layouts/_header.html.erb (13.0ms)
+  Rendered layouts/_footer.html.erb (2.2ms)
+Completed 200 OK in 4550ms (Views: 4549.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-01 13:36:44 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-01 13:36:44 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-01 13:36:44 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-01 13:36:44 +0200
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-01 13:36:44 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-01 13:36:44 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-01 13:36:44 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-01 13:36:44 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-01 13:36:44 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-01 13:36:44 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-01 13:36:44 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-01 13:36:44 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-01 13:42:53 +0200
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (2.2ms)
+  Rendered layouts/_shim.html.erb (0.4ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.8ms)
+Completed 200 OK in 134ms (Views: 97.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-01 13:42:53 +0200
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-01 13:42:53 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-01 13:42:53 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-01 13:42:53 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-01 13:42:53 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-01 13:42:53 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-01 13:42:53 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-01 13:42:53 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-01 13:42:53 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-01 13:42:53 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-01 13:42:53 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-01 13:42:53 +0200
+
+
+Started GET "/index" for 127.0.0.1 at 2014-06-01 13:42:55 +0200
+Processing by WelcomeController#index as HTML
+  [1m[36mSchedule Load (0.2ms)[0m  [1mSELECT `Schedules`.* FROM `Schedules`[0m
+  Rendered welcome/index.html.erb within layouts/application (45.2ms)
+  Rendered layouts/_shim.html.erb (0.5ms)
+  Rendered layouts/_header.html.erb (1.1ms)
+  Rendered layouts/_footer.html.erb (0.4ms)
+Completed 200 OK in 185ms (Views: 107.7ms | ActiveRecord: 3.8ms)
+
+
+Started GET "/help" for 127.0.0.1 at 2014-06-01 13:43:13 +0200
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/help.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 37ms (Views: 36.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2014-06-01 13:43:15 +0200
+Processing by StaticPagesController#about as HTML
+  Rendered static_pages/about.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (1.8ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 35ms (Views: 33.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-01 13:43:16 +0200
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 58ms (Views: 53.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index" for 127.0.0.1 at 2014-06-01 13:43:18 +0200
+Processing by WelcomeController#index as HTML
+  [1m[35mSchedule Load (3.5ms)[0m  SELECT `Schedules`.* FROM `Schedules`
+  Rendered welcome/index.html.erb within layouts/application (4.7ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.4ms)
+Completed 200 OK in 54ms (Views: 42.0ms | ActiveRecord: 3.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-01 13:44:23 +0200
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 26ms (Views: 25.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-01 13:44:24 +0200
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 27ms (Views: 26.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-01 13:44:24 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-01 13:44:24 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-01 13:44:24 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-01 13:44:24 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-01 13:44:24 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-01 13:44:25 +0200
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-01 13:44:25 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-01 13:44:25 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-01 13:44:25 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-01 13:44:25 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-01 13:44:25 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-01 13:44:25 +0200
+
+
+Started GET "/index" for 127.0.0.1 at 2014-06-01 13:44:26 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.7ms)
+Completed 500 Internal Server Error in 11ms
+
+SyntaxError (/home/damian/Dokumenty/rails/terminarz/app/views/welcome/index.html.erb:2: syntax error, unexpected '<', expecting keyword_end
+<h1>Ter</h1>
+ ^
+/home/damian/Dokumenty/rails/terminarz/app/views/welcome/index.html.erb:8: unknown regexp options - dv
+/home/damian/Dokumenty/rails/terminarz/app/views/welcome/index.html.erb:9: unterminated string meets end of file
+/home/damian/Dokumenty/rails/terminarz/app/views/welcome/index.html.erb:9: syntax error, unexpected end-of-input, expecting keyword_end):
+  actionview (4.1.1) lib/action_view/template.rb:297:in `module_eval'
+  actionview (4.1.1) lib/action_view/template.rb:297:in `compile'
+  actionview (4.1.1) lib/action_view/template.rb:245:in `block (2 levels) in compile!'
+  activesupport (4.1.1) lib/active_support/notifications.rb:161:in `instrument'
+  actionview (4.1.1) lib/action_view/template.rb:339:in `instrument'
+  actionview (4.1.1) lib/action_view/template.rb:244:in `block in compile!'
+  actionview (4.1.1) lib/action_view/template.rb:232:in `synchronize'
+  actionview (4.1.1) lib/action_view/template.rb:232:in `compile!'
+  actionview (4.1.1) lib/action_view/template.rb:144:in `block in render'
+  activesupport (4.1.1) lib/active_support/notifications.rb:161:in `instrument'
+  actionview (4.1.1) lib/action_view/template.rb:339:in `instrument'
+  actionview (4.1.1) lib/action_view/template.rb:143:in `render'
+  actionview (4.1.1) lib/action_view/renderer/template_renderer.rb:55:in `block (2 levels) in render_template'
+  actionview (4.1.1) lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+  activesupport (4.1.1) lib/active_support/notifications.rb:159:in `block in instrument'
+  activesupport (4.1.1) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.1.1) lib/active_support/notifications.rb:159:in `instrument'
+  actionview (4.1.1) lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+  actionview (4.1.1) lib/action_view/renderer/template_renderer.rb:54:in `block in render_template'
+  actionview (4.1.1) lib/action_view/renderer/template_renderer.rb:62:in `render_with_layout'
+  actionview (4.1.1) lib/action_view/renderer/template_renderer.rb:53:in `render_template'
+  actionview (4.1.1) lib/action_view/renderer/template_renderer.rb:17:in `render'
+  actionview (4.1.1) lib/action_view/renderer/renderer.rb:42:in `render_template'
+  actionview (4.1.1) lib/action_view/renderer/renderer.rb:23:in `render'
+  actionview (4.1.1) lib/action_view/rendering.rb:99:in `_render_template'
+  actionpack (4.1.1) lib/action_controller/metal/streaming.rb:217:in `_render_template'
+  actionview (4.1.1) lib/action_view/rendering.rb:82:in `render_to_body'
+  actionpack (4.1.1) lib/action_controller/metal/rendering.rb:32:in `render_to_body'
+  actionpack (4.1.1) lib/action_controller/metal/renderers.rb:32:in `render_to_body'
+  actionpack (4.1.1) lib/abstract_controller/rendering.rb:25:in `render'
+  actionpack (4.1.1) lib/action_controller/metal/rendering.rb:16:in `render'
+  actionpack (4.1.1) lib/action_controller/metal/instrumentation.rb:41:in `block (2 levels) in render'
+  activesupport (4.1.1) lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+  /usr/local/rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/benchmark.rb:294:in `realtime'
+  activesupport (4.1.1) lib/active_support/core_ext/benchmark.rb:12:in `ms'
+  actionpack (4.1.1) lib/action_controller/metal/instrumentation.rb:41:in `block in render'
+  actionpack (4.1.1) lib/action_controller/metal/instrumentation.rb:84:in `cleanup_view_runtime'
+  activerecord (4.1.1) lib/active_record/railties/controller_runtime.rb:25:in `cleanup_view_runtime'
+  actionpack (4.1.1) lib/action_controller/metal/instrumentation.rb:40:in `render'
+  actionpack (4.1.1) lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  actionpack (4.1.1) lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+  actionpack (4.1.1) lib/abstract_controller/base.rb:189:in `process_action'
+  actionpack (4.1.1) lib/action_controller/metal/rendering.rb:10:in `process_action'
+  actionpack (4.1.1) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:113:in `call'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:113:in `call'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:229:in `block in halting'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:229:in `call'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:229:in `block in halting'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:166:in `call'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:166:in `block in halting'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:166:in `call'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:166:in `block in halting'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:166:in `call'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:166:in `block in halting'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:86:in `call'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:86:in `run_callbacks'
+  actionpack (4.1.1) lib/abstract_controller/callbacks.rb:19:in `process_action'
+  actionpack (4.1.1) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.1.1) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action'
+  activesupport (4.1.1) lib/active_support/notifications.rb:159:in `block in instrument'
+  activesupport (4.1.1) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.1.1) lib/active_support/notifications.rb:159:in `instrument'
+  actionpack (4.1.1) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.1.1) lib/action_controller/metal/params_wrapper.rb:250:in `process_action'
+  activerecord (4.1.1) lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+  actionpack (4.1.1) lib/abstract_controller/base.rb:136:in `process'
+  actionview (4.1.1) lib/action_view/rendering.rb:30:in `process'
+  actionpack (4.1.1) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.1.1) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.1.1) lib/action_controller/metal.rb:231:in `block in action'
+  actionpack (4.1.1) lib/action_dispatch/routing/route_set.rb:80:in `call'
+  actionpack (4.1.1) lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+  actionpack (4.1.1) lib/action_dispatch/routing/route_set.rb:48:in `call'
+  actionpack (4.1.1) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.1.1) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.1.1) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.1.1) lib/action_dispatch/routing/route_set.rb:676:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/flash.rb:254:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.1.1) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.1.1) lib/active_record/connection_adapters/abstract/connection_pool.rb:621:in `call'
+  activerecord (4.1.1) lib/active_record/migration.rb:380:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:82:in `run_callbacks'
+  actionpack (4.1.1) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.1) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.1) lib/rails/engine.rb:514:in `call'
+  railties (4.1.1) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /usr/local/rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /usr/local/rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /usr/local/rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (2.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (14.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (89.1ms)
+
+
+Started GET "/index" for 127.0.0.1 at 2014-06-01 13:44:26 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.7ms)
+Completed 500 Internal Server Error in 10ms
+
+SyntaxError (/home/damian/Dokumenty/rails/terminarz/app/views/welcome/index.html.erb:2: syntax error, unexpected '<', expecting keyword_end
+<h1>Ter</h1>
+ ^
+/home/damian/Dokumenty/rails/terminarz/app/views/welcome/index.html.erb:8: unknown regexp options - dv
+/home/damian/Dokumenty/rails/terminarz/app/views/welcome/index.html.erb:9: unterminated string meets end of file
+/home/damian/Dokumenty/rails/terminarz/app/views/welcome/index.html.erb:9: syntax error, unexpected end-of-input, expecting keyword_end):
+  actionview (4.1.1) lib/action_view/template.rb:297:in `module_eval'
+  actionview (4.1.1) lib/action_view/template.rb:297:in `compile'
+  actionview (4.1.1) lib/action_view/template.rb:245:in `block (2 levels) in compile!'
+  activesupport (4.1.1) lib/active_support/notifications.rb:161:in `instrument'
+  actionview (4.1.1) lib/action_view/template.rb:339:in `instrument'
+  actionview (4.1.1) lib/action_view/template.rb:244:in `block in compile!'
+  actionview (4.1.1) lib/action_view/template.rb:232:in `synchronize'
+  actionview (4.1.1) lib/action_view/template.rb:232:in `compile!'
+  actionview (4.1.1) lib/action_view/template.rb:144:in `block in render'
+  activesupport (4.1.1) lib/active_support/notifications.rb:161:in `instrument'
+  actionview (4.1.1) lib/action_view/template.rb:339:in `instrument'
+  actionview (4.1.1) lib/action_view/template.rb:143:in `render'
+  actionview (4.1.1) lib/action_view/renderer/template_renderer.rb:55:in `block (2 levels) in render_template'
+  actionview (4.1.1) lib/action_view/renderer/abstract_renderer.rb:38:in `block in instrument'
+  activesupport (4.1.1) lib/active_support/notifications.rb:159:in `block in instrument'
+  activesupport (4.1.1) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.1.1) lib/active_support/notifications.rb:159:in `instrument'
+  actionview (4.1.1) lib/action_view/renderer/abstract_renderer.rb:38:in `instrument'
+  actionview (4.1.1) lib/action_view/renderer/template_renderer.rb:54:in `block in render_template'
+  actionview (4.1.1) lib/action_view/renderer/template_renderer.rb:62:in `render_with_layout'
+  actionview (4.1.1) lib/action_view/renderer/template_renderer.rb:53:in `render_template'
+  actionview (4.1.1) lib/action_view/renderer/template_renderer.rb:17:in `render'
+  actionview (4.1.1) lib/action_view/renderer/renderer.rb:42:in `render_template'
+  actionview (4.1.1) lib/action_view/renderer/renderer.rb:23:in `render'
+  actionview (4.1.1) lib/action_view/rendering.rb:99:in `_render_template'
+  actionpack (4.1.1) lib/action_controller/metal/streaming.rb:217:in `_render_template'
+  actionview (4.1.1) lib/action_view/rendering.rb:82:in `render_to_body'
+  actionpack (4.1.1) lib/action_controller/metal/rendering.rb:32:in `render_to_body'
+  actionpack (4.1.1) lib/action_controller/metal/renderers.rb:32:in `render_to_body'
+  actionpack (4.1.1) lib/abstract_controller/rendering.rb:25:in `render'
+  actionpack (4.1.1) lib/action_controller/metal/rendering.rb:16:in `render'
+  actionpack (4.1.1) lib/action_controller/metal/instrumentation.rb:41:in `block (2 levels) in render'
+  activesupport (4.1.1) lib/active_support/core_ext/benchmark.rb:12:in `block in ms'
+  /usr/local/rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/benchmark.rb:294:in `realtime'
+  activesupport (4.1.1) lib/active_support/core_ext/benchmark.rb:12:in `ms'
+  actionpack (4.1.1) lib/action_controller/metal/instrumentation.rb:41:in `block in render'
+  actionpack (4.1.1) lib/action_controller/metal/instrumentation.rb:84:in `cleanup_view_runtime'
+  activerecord (4.1.1) lib/active_record/railties/controller_runtime.rb:25:in `cleanup_view_runtime'
+  actionpack (4.1.1) lib/action_controller/metal/instrumentation.rb:40:in `render'
+  actionpack (4.1.1) lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  actionpack (4.1.1) lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+  actionpack (4.1.1) lib/abstract_controller/base.rb:189:in `process_action'
+  actionpack (4.1.1) lib/action_controller/metal/rendering.rb:10:in `process_action'
+  actionpack (4.1.1) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:113:in `call'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:113:in `call'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:229:in `block in halting'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:229:in `call'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:229:in `block in halting'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:166:in `call'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:166:in `block in halting'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:166:in `call'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:166:in `block in halting'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:166:in `call'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:166:in `block in halting'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:86:in `call'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:86:in `run_callbacks'
+  actionpack (4.1.1) lib/abstract_controller/callbacks.rb:19:in `process_action'
+  actionpack (4.1.1) lib/action_controller/metal/rescue.rb:29:in `process_action'
+  actionpack (4.1.1) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action'
+  activesupport (4.1.1) lib/active_support/notifications.rb:159:in `block in instrument'
+  activesupport (4.1.1) lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  activesupport (4.1.1) lib/active_support/notifications.rb:159:in `instrument'
+  actionpack (4.1.1) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+  actionpack (4.1.1) lib/action_controller/metal/params_wrapper.rb:250:in `process_action'
+  activerecord (4.1.1) lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+  actionpack (4.1.1) lib/abstract_controller/base.rb:136:in `process'
+  actionview (4.1.1) lib/action_view/rendering.rb:30:in `process'
+  actionpack (4.1.1) lib/action_controller/metal.rb:195:in `dispatch'
+  actionpack (4.1.1) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch'
+  actionpack (4.1.1) lib/action_controller/metal.rb:231:in `block in action'
+  actionpack (4.1.1) lib/action_dispatch/routing/route_set.rb:80:in `call'
+  actionpack (4.1.1) lib/action_dispatch/routing/route_set.rb:80:in `dispatch'
+  actionpack (4.1.1) lib/action_dispatch/routing/route_set.rb:48:in `call'
+  actionpack (4.1.1) lib/action_dispatch/journey/router.rb:71:in `block in call'
+  actionpack (4.1.1) lib/action_dispatch/journey/router.rb:59:in `each'
+  actionpack (4.1.1) lib/action_dispatch/journey/router.rb:59:in `call'
+  actionpack (4.1.1) lib/action_dispatch/routing/route_set.rb:676:in `call'
+  rack (1.5.2) lib/rack/etag.rb:23:in `call'
+  rack (1.5.2) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.5.2) lib/rack/head.rb:11:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/flash.rb:254:in `call'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.1.1) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.1.1) lib/active_record/connection_adapters/abstract/connection_pool.rb:621:in `call'
+  activerecord (4.1.1) lib/active_record/migration.rb:380:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:82:in `run_callbacks'
+  actionpack (4.1.1) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.1) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.1) lib/rails/engine.rb:514:in `call'
+  railties (4.1.1) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /usr/local/rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /usr/local/rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /usr/local/rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (1.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (62.2ms)
+
+
+Started GET "/index" for 127.0.0.1 at 2014-06-01 13:44:49 +0200
+Processing by WelcomeController#index as HTML
+  [1m[36mSchedule Load (7.4ms)[0m  [1mSELECT `Schedules`.* FROM `Schedules`[0m
+  Rendered welcome/index.html.erb within layouts/application (10.9ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (5.9ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 52ms (Views: 44.2ms | ActiveRecord: 7.4ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-01 13:44:49 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-01 13:44:49 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-01 13:44:49 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-01 13:44:49 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-01 13:44:49 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-01 13:44:49 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-01 13:44:49 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-01 13:44:49 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-01 13:44:49 +0200
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-01 13:44:49 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-01 13:44:49 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-01 13:44:49 +0200
+
+
+Started GET "/index" for 127.0.0.1 at 2014-06-01 13:45:08 +0200
+Processing by WelcomeController#index as HTML
+  [1m[35mSchedule Load (6.6ms)[0m  SELECT `Schedules`.* FROM `Schedules`
+  Rendered welcome/index.html.erb within layouts/application (15.4ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.5ms)
+Completed 200 OK in 47ms (Views: 38.3ms | ActiveRecord: 6.6ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-01 13:45:08 +0200
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-01 13:45:08 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-01 13:45:08 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-01 13:45:08 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-01 13:45:08 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-01 13:45:08 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-01 13:45:08 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-01 13:45:08 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-01 13:45:08 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-01 13:45:08 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-01 13:45:08 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-01 13:45:08 +0200
+  [1m[36mActiveRecord::SchemaMigration Load (1.1ms)[0m  [1mSELECT `schema_migrations`.* FROM `schema_migrations`[0m
+Migrating to AddIndexToUsersEmail (20140601224154)
+Mysql2::Error: Table 'terminarz.users' doesn't exist: SHOW KEYS FROM `users`
+  [1m[36mActiveRecord::SchemaMigration Load (0.8ms)[0m  [1mSELECT `schema_migrations`.* FROM `schema_migrations`[0m
+Migrating to AddIndexToUsersEmail (20140601224154)
+Mysql2::Error: Table 'terminarz.users' doesn't exist: SHOW KEYS FROM `users`
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT `schema_migrations`.* FROM `schema_migrations`[0m
+Migrating to AddIndexToUsersEmail (20140601224154)
+Mysql2::Error: Table 'terminarz.users' doesn't exist: SHOW KEYS FROM `users`
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-02 09:57:56 +0200
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT `schema_migrations`.* FROM `schema_migrations`[0m
+
+ActiveRecord::PendingMigrationError (
+
+Migrations are pending. To resolve this issue, run:
+
+	bin/rake db:migrate RAILS_ENV=development
+
+):
+  activerecord (4.1.1) lib/active_record/migration.rb:389:in `check_pending!'
+  activerecord (4.1.1) lib/active_record/migration.rb:377:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.1.1) lib/active_support/callbacks.rb:82:in `run_callbacks'
+  actionpack (4.1.1) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/remote_ip.rb:76:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.1) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.1) lib/rails/engine.rb:514:in `call'
+  railties (4.1.1) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /usr/local/rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /usr/local/rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /usr/local/rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (28.3ms)
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT `schema_migrations`.* FROM `schema_migrations`[0m
+Migrating to AddIndexToUsersEmail (20140601224154)
+Mysql2::Error: Table 'terminarz.users' doesn't exist: SHOW KEYS FROM `users`
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-02 10:01:57 +0200
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_shim.html.erb (0.4ms)
+  Rendered layouts/_header.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.7ms)
+Completed 200 OK in 2910ms (Views: 2840.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-02 10:02:00 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-02 10:02:00 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-02 10:02:00 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-02 10:02:00 +0200
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-02 10:02:00 +0200
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-06-02 10:02:00 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-02 10:02:00 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-02 10:02:00 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-02 10:02:00 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-02 10:02:01 +0200
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-06-02 10:02:01 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-02 10:02:01 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-02 10:02:01 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-02 10:02:01 +0200
+
+
+Started GET "/signup" for 127.0.0.1 at 2014-06-02 10:02:04 +0200
+Processing by UsersController#new as HTML
+  Rendered shared/_error_messages.html.erb (11.3ms)
+  Rendered users/new.html.erb within layouts/application (115.9ms)
+  Rendered layouts/_shim.html.erb (0.5ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.4ms)
+Completed 200 OK in 322ms (Views: 145.6ms | ActiveRecord: 12.6ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2014-06-02 10:03:57 +0200
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"bzTUTAL9y1/fFaywwx/Qym8HDq0NbGdlsmjYPfjwPv8=", "user"=>{"first_name"=>"Jaroslaw", "last_name"=>"Prezesowy", "email"=>"jaro@mail.com", "login"=>"jaro", "specialization_id"=>"1", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Create my account"}
+Unpermitted parameters: first_name
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mUser Exists (12.5ms)[0m  SELECT  1 AS one FROM `Users`  WHERE `Users`.`email` = 'jaro@mail.com' LIMIT 1
+  [1m[36mSQL (30.1ms)[0m  [1mINSERT INTO `Users` (`email`, `last_name`, `login`, `password_digest`, `specialization_id`) VALUES ('jaro@mail.com', 'Prezesowy', 'jaro', '$2a$10$dvf4ygNVWpXOC8A5xsqED.rq/KS/xP1O9nCYj5QHGXHieuj5djrDS', 1)[0m
+Mysql2::Error: Field 'first_name' doesn't have a default value: INSERT INTO `Users` (`email`, `last_name`, `login`, `password_digest`, `specialization_id`) VALUES ('jaro@mail.com', 'Prezesowy', 'jaro', '$2a$10$dvf4ygNVWpXOC8A5xsqED.rq/KS/xP1O9nCYj5QHGXHieuj5djrDS', 1)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+Completed 500 Internal Server Error in 295ms
+
+ActiveRecord::StatementInvalid (Mysql2::Error: Field 'first_name' doesn't have a default value: INSERT INTO `Users` (`email`, `last_name`, `login`, `password_digest`, `specialization_id`) VALUES ('jaro@mail.com', 'Prezesowy', 'jaro', '$2a$10$dvf4ygNVWpXOC8A5xsqED.rq/KS/xP1O9nCYj5QHGXHieuj5djrDS', 1)):
+  app/controllers/users_controller.rb:13:in `create'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (2.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.6ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.0ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (32.1ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2014-06-02 10:04:51 +0200
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"bzTUTAL9y1/fFaywwx/Qym8HDq0NbGdlsmjYPfjwPv8=", "user"=>{"first_name"=>"Jaroslaw", "last_name"=>"Prezesowy", "email"=>"jaro@mail.com", "login"=>"jaro", "specialization_id"=>"1", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Create my account"}
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35mUser Exists (0.1ms)[0m  SELECT  1 AS one FROM `Users`  WHERE `Users`.`email` = 'jaro@mail.com' LIMIT 1
+  [1m[36mSQL (35.4ms)[0m  [1mINSERT INTO `Users` (`email`, `first_name`, `last_name`, `login`, `password_digest`, `specialization_id`) VALUES ('jaro@mail.com', 'Jaroslaw', 'Prezesowy', 'jaro', '$2a$10$X3GJX.VzBVoMWTYcW65pbeeaC9ztyY8VfHcyiplg1Vtf3TDGhxT3a', 1)[0m
+  [1m[35m (4.3ms)[0m  COMMIT
+Redirected to http://localhost:3000/users/5
+Completed 302 Found in 361ms (ActiveRecord: 41.4ms)
+
+
+Started GET "/users/5" for 127.0.0.1 at 2014-06-02 10:04:51 +0200
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"5"}
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT  `Users`.* FROM `Users`  WHERE `Users`.`id_user` = 5 LIMIT 1[0m
+  Rendered users/show.html.erb within layouts/application (1.2ms)
+Completed 500 Internal Server Error in 35ms
+
+ActionView::Template::Error (undefined method `firstname' for #<User:0xb86e2f4>):
+    1: <% provide(:title, @user.firstname) %>
+    2: <div class="row">
+    3:   <aside class="span4">
+    4:     <section>
+  app/views/users/show.html.erb:1:in `_app_views_users_show_html_erb___55419639_96774860'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (15.8ms)
+
+
+Started GET "/users/5" for 127.0.0.1 at 2014-06-02 10:05:06 +0200
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"5"}
+  [1m[35mUser Load (2.0ms)[0m  SELECT  `Users`.* FROM `Users`  WHERE `Users`.`id_user` = 5 LIMIT 1
+  Rendered users/show.html.erb within layouts/application (1.3ms)
+Completed 500 Internal Server Error in 13ms
+
+ActionView::Template::Error (undefined method `name' for #<User:0xbb581cc>):
+    3:   <aside class="span4">
+    4:     <section>
+    5:       <h1>
+    6:         <%= gravatar_for @user %>
+    7:         <%= @user.first_name %>
+    8:       </h1>
+    9:     </section>
+  app/helpers/users_helper.rb:6:in `gravatar_for'
+  app/views/users/show.html.erb:6:in `_app_views_users_show_html_erb___55419639_98260650'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.5ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (13.2ms)
+
+
+Started GET "/users/5" for 127.0.0.1 at 2014-06-02 10:06:26 +0200
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"5"}
+  [1m[36mUser Load (5.8ms)[0m  [1mSELECT  `Users`.* FROM `Users`  WHERE `Users`.`id_user` = 5 LIMIT 1[0m
+  Rendered users/show.html.erb within layouts/application (0.7ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 47ms (Views: 35.7ms | ActiveRecord: 5.8ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-02 10:06:26 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-02 10:06:26 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-02 10:06:26 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-02 10:06:26 +0200
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-02 10:06:26 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-02 10:06:26 +0200
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-06-02 10:06:26 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-02 10:06:26 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-02 10:06:26 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-02 10:06:26 +0200
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-06-02 10:06:26 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-02 10:06:26 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-02 10:06:26 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-02 10:06:26 +0200
+
+
+Started GET "/index" for 127.0.0.1 at 2014-06-02 10:06:32 +0200
+Processing by WelcomeController#index as HTML
+  [1m[35mSchedule Load (11.1ms)[0m  SELECT `Schedules`.* FROM `Schedules`
+  Rendered welcome/index.html.erb within layouts/application (56.6ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (12.9ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 123ms (Views: 84.3ms | ActiveRecord: 19.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-02 10:06:39 +0200
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.9ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (2.3ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 56ms (Views: 52.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/help" for 127.0.0.1 at 2014-06-02 10:06:42 +0200
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/help.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_shim.html.erb (4.9ms)
+  Rendered layouts/_header.html.erb (5.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 52ms (Views: 51.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/index" for 127.0.0.1 at 2014-06-02 10:06:45 +0200
+Processing by WelcomeController#index as HTML
+  [1m[36mSchedule Load (6.1ms)[0m  [1mSELECT `Schedules`.* FROM `Schedules`[0m
+  Rendered welcome/index.html.erb within layouts/application (21.1ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.5ms)
+Completed 200 OK in 72ms (Views: 62.0ms | ActiveRecord: 6.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-02 10:25:39 +0200
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.6ms)
+  Rendered layouts/_shim.html.erb (0.4ms)
+  [1m[36mUser Load (0.5ms)[0m  [1mSELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1[0m
+  Rendered layouts/_header.html.erb (88.5ms)
+  Rendered layouts/_footer.html.erb (0.5ms)
+Completed 200 OK in 398ms (Views: 354.9ms | ActiveRecord: 1.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-02 10:25:40 +0200
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (8.2ms)
+  Rendered layouts/_shim.html.erb (0.4ms)
+  [1m[35mUser Load (0.1ms)[0m  SELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1
+  Rendered layouts/_header.html.erb (1.6ms)
+  Rendered layouts/_footer.html.erb (0.5ms)
+Completed 200 OK in 50ms (Views: 49.5ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-02 10:25:40 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-02 10:25:40 +0200
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-06-02 10:25:40 +0200
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-02 10:25:40 +0200
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-06-02 10:25:40 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-02 10:25:40 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-02 10:25:40 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-02 10:25:40 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-02 10:25:40 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-02 10:25:40 +0200
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-06-02 10:25:40 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-02 10:25:40 +0200
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-06-02 10:25:40 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-02 10:25:40 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-02 10:25:40 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-02 10:25:40 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-02 10:26:38 +0200
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  [1m[36mUser Load (1.8ms)[0m  [1mSELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1[0m
+  Rendered layouts/_header.html.erb (31.1ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 89ms (Views: 85.5ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/signin" for 127.0.0.1 at 2014-06-02 10:26:39 +0200
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (37.7ms)
+  Rendered layouts/_shim.html.erb (0.2ms)
+  [1m[35mUser Load (2.4ms)[0m  SELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1
+  Rendered layouts/_header.html.erb (4.0ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 122ms (Views: 118.8ms | ActiveRecord: 2.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-02 10:26:46 +0200
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_shim.html.erb (0.4ms)
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1[0m
+  Rendered layouts/_header.html.erb (3.7ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 49ms (Views: 44.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/signup" for 127.0.0.1 at 2014-06-02 10:26:47 +0200
+Processing by UsersController#new as HTML
+  Rendered shared/_error_messages.html.erb (2.4ms)
+  Rendered users/new.html.erb within layouts/application (71.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  [1m[35mUser Load (6.6ms)[0m  SELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1
+  Rendered layouts/_header.html.erb (8.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 142ms (Views: 126.5ms | ActiveRecord: 6.6ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2014-06-02 10:27:17 +0200
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"bzTUTAL9y1/fFaywwx/Qym8HDq0NbGdlsmjYPfjwPv8=", "user"=>{"first_name"=>"Gregory", "last_name"=>"House", "email"=>"house@mail.com", "login"=>"house", "specialization_id"=>"2", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Create my account"}
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mUser Exists (0.3ms)[0m  SELECT  1 AS one FROM `Users`  WHERE `Users`.`email` = 'house@mail.com' LIMIT 1
+  [1m[36mSQL (18.9ms)[0m  [1mINSERT INTO `Users` (`email`, `first_name`, `last_name`, `login`, `password_digest`, `remember_token`, `specialization_id`) VALUES ('house@mail.com', 'Gregory', 'House', 'house', '$2a$10$zZW1bZeWe/lMBv8CKPXZT.sr7xm1Gg./G1dMpR9f3vSrCB8SQQaRi', 'a2a4ee253c20d5c4ac750f8aeb407c7521fa3f26', 2)[0m
+  [1m[35m (4.6ms)[0m  COMMIT
+  [1m[36m (1.5ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (1.0ms)[0m  UPDATE `Users` SET `remember_token` = '3ee26909a9ba4c08090a9ed69ff552e4761b1bfa' WHERE `Users`.`id_user` = 6
+  [1m[36m (4.4ms)[0m  [1mCOMMIT[0m
+Redirected to http://localhost:3000/users/6
+Completed 302 Found in 265ms (ActiveRecord: 30.8ms)
+
+
+Started GET "/users/6" for 127.0.0.1 at 2014-06-02 10:27:18 +0200
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"6"}
+  [1m[35mUser Load (3.8ms)[0m  SELECT  `Users`.* FROM `Users`  WHERE `Users`.`id_user` = 6 LIMIT 1
+  Rendered users/show.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  [1m[36mUser Load (0.4ms)[0m  [1mSELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = '3ee26909a9ba4c08090a9ed69ff552e4761b1bfa' LIMIT 1[0m
+  Rendered layouts/_header.html.erb (12.8ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 55ms (Views: 49.5ms | ActiveRecord: 4.2ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-02 10:27:18 +0200
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-06-02 10:27:18 +0200
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-02 10:27:18 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-02 10:27:18 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-02 10:27:18 +0200
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-06-02 10:27:18 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-02 10:27:18 +0200
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-06-02 10:27:18 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-02 10:27:18 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-02 10:27:18 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-02 10:27:18 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-02 10:27:18 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-02 10:27:18 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-02 10:27:18 +0200
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-06-02 10:27:18 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-02 10:27:18 +0200
+
+
+Started GET "/users/6" for 127.0.0.1 at 2014-06-02 10:27:38 +0200
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"6"}
+  [1m[35mUser Load (3.3ms)[0m  SELECT  `Users`.* FROM `Users`  WHERE `Users`.`id_user` = 6 LIMIT 1
+  Rendered users/show.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  [1m[36mUser Load (2.0ms)[0m  [1mSELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = '3ee26909a9ba4c08090a9ed69ff552e4761b1bfa' LIMIT 1[0m
+  Rendered layouts/_header.html.erb (13.2ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 58ms (Views: 46.5ms | ActiveRecord: 5.3ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-02 10:27:38 +0200
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-06-02 10:27:38 +0200
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-02 10:27:38 +0200
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-06-02 10:27:38 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-02 10:27:38 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-02 10:27:38 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-02 10:27:38 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-02 10:27:38 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-02 10:27:38 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-02 10:27:38 +0200
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-06-02 10:27:38 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-02 10:27:38 +0200
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-06-02 10:27:38 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-02 10:27:38 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-02 10:27:38 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-02 10:27:38 +0200
+
+
+Started GET "/index" for 127.0.0.1 at 2014-06-02 10:27:42 +0200
+Processing by WelcomeController#index as HTML
+  [1m[35mSchedule Load (0.7ms)[0m  SELECT `Schedules`.* FROM `Schedules`
+  Rendered welcome/index.html.erb within layouts/application (27.1ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = '3ee26909a9ba4c08090a9ed69ff552e4761b1bfa' LIMIT 1[0m
+  Rendered layouts/_header.html.erb (14.8ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 116ms (Views: 109.5ms | ActiveRecord: 2.4ms)
+
+
+Started DELETE "/signout" for 127.0.0.1 at 2014-06-02 10:27:47 +0200
+Processing by SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"bzTUTAL9y1/fFaywwx/Qym8HDq0NbGdlsmjYPfjwPv8="}
+  [1m[35mUser Load (0.1ms)[0m  SELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = '3ee26909a9ba4c08090a9ed69ff552e4761b1bfa' LIMIT 1
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (14.8ms)[0m  UPDATE `Users` SET `remember_token` = '1ce1bb70eb85ce23c04e868a041933dc5f81b103' WHERE `Users`.`id_user` = 6
+  [1m[36m (10.5ms)[0m  [1mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 29ms (ActiveRecord: 25.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-02 10:27:47 +0200
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  [1m[35mUser Load (1.1ms)[0m  SELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1
+  Rendered layouts/_header.html.erb (3.3ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 25ms (Views: 23.1ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-02 10:27:47 +0200
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-02 10:27:47 +0200
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-06-02 10:27:47 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-02 10:27:47 +0200
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-06-02 10:27:47 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-02 10:27:47 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-02 10:27:47 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-02 10:27:47 +0200
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-06-02 10:27:47 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-02 10:27:47 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-02 10:27:47 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-02 10:27:47 +0200
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-06-02 10:27:47 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-02 10:27:47 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-02 10:27:47 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-02 10:27:47 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-02 10:28:12 +0200
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1[0m
+  Rendered layouts/_header.html.erb (2.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 34ms (Views: 33.4ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-02 10:28:13 +0200
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-02 10:28:13 +0200
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-06-02 10:28:13 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-02 10:28:13 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-02 10:28:13 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-02 10:28:13 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-02 10:28:13 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-02 10:28:13 +0200
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-06-02 10:28:13 +0200
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-06-02 10:28:13 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-02 10:28:13 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-02 10:28:13 +0200
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-06-02 10:28:13 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-02 10:28:13 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-02 10:28:13 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-02 10:28:13 +0200
+
+
+Started GET "/index" for 127.0.0.1 at 2014-06-02 10:28:14 +0200
+Processing by WelcomeController#index as HTML
+  [1m[35mSchedule Load (1.5ms)[0m  SELECT `Schedules`.* FROM `Schedules`
+  Rendered welcome/index.html.erb within layouts/application (3.5ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1[0m
+  Rendered layouts/_header.html.erb (1.6ms)
+  Rendered layouts/_footer.html.erb (2.5ms)
+Completed 200 OK in 44ms (Views: 41.3ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/index" for 127.0.0.1 at 2014-06-02 10:28:51 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.7ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  [1m[35mUser Load (0.1ms)[0m  SELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1
+  Rendered layouts/_header.html.erb (1.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 37ms (Views: 35.3ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-02 10:28:51 +0200
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-06-02 10:28:51 +0200
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-02 10:28:51 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-02 10:28:51 +0200
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-06-02 10:28:51 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-02 10:28:51 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-02 10:28:51 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-02 10:28:51 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-02 10:28:51 +0200
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-06-02 10:28:51 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-02 10:28:51 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-02 10:28:51 +0200
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-06-02 10:28:51 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-02 10:28:51 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-02 10:28:51 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-02 10:28:51 +0200
+
+
+Started GET "/index" for 127.0.0.1 at 2014-06-02 10:29:44 +0200
+Processing by WelcomeController#index as HTML
+  [1m[36mSchedule Load (1.8ms)[0m  [1mSELECT `Schedules`.* FROM `Schedules`[0m
+  Rendered welcome/index.html.erb within layouts/application (18.6ms)
+  Rendered layouts/_shim.html.erb (0.2ms)
+  [1m[35mUser Load (0.2ms)[0m  SELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1
+  Rendered layouts/_header.html.erb (5.2ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 61ms (Views: 57.9ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-02 10:29:44 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-02 10:29:44 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-02 10:29:44 +0200
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-06-02 10:29:44 +0200
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-02 10:29:44 +0200
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-06-02 10:29:44 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-02 10:29:44 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-02 10:29:44 +0200
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-06-02 10:29:44 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-02 10:29:44 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-02 10:29:44 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-02 10:29:44 +0200
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-06-02 10:29:44 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-02 10:29:44 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-02 10:29:44 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-02 10:29:44 +0200
+
+
+Started GET "/help" for 127.0.0.1 at 2014-06-02 10:29:47 +0200
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/help.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  [1m[36mUser Load (4.3ms)[0m  [1mSELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1[0m
+  Rendered layouts/_header.html.erb (6.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 63ms (Views: 57.6ms | ActiveRecord: 4.3ms)
+
+
+Started GET "/index" for 127.0.0.1 at 2014-06-02 10:29:48 +0200
+Processing by WelcomeController#index as HTML
+  [1m[35mSchedule Load (5.1ms)[0m  SELECT `Schedules`.* FROM `Schedules`
+  Rendered welcome/index.html.erb within layouts/application (17.7ms)
+  Rendered layouts/_shim.html.erb (0.7ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1[0m
+  Rendered layouts/_header.html.erb (1.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 49ms (Views: 42.8ms | ActiveRecord: 5.2ms)
+
+
+Started GET "/help" for 127.0.0.1 at 2014-06-02 10:29:50 +0200
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/help.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  [1m[35mUser Load (2.0ms)[0m  SELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1
+  Rendered layouts/_header.html.erb (6.3ms)
+  Rendered layouts/_footer.html.erb (2.9ms)
+Completed 200 OK in 55ms (Views: 52.1ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/index" for 127.0.0.1 at 2014-06-02 10:29:50 +0200
+Processing by WelcomeController#index as HTML
+  [1m[36mSchedule Load (8.7ms)[0m  [1mSELECT `Schedules`.* FROM `Schedules`[0m
+  Rendered welcome/index.html.erb within layouts/application (10.6ms)
+  Rendered layouts/_shim.html.erb (0.0ms)
+  [1m[35mUser Load (0.2ms)[0m  SELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1
+  Rendered layouts/_header.html.erb (4.4ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 75ms (Views: 58.5ms | ActiveRecord: 9.0ms)
+
+
+Started GET "/index" for 127.0.0.1 at 2014-06-02 10:30:06 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_shim.html.erb (0.2ms)
+  [1m[36mUser Load (0.7ms)[0m  [1mSELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1[0m
+  Rendered layouts/_header.html.erb (9.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 48ms (Views: 46.3ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-02 10:30:06 +0200
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-06-02 10:30:06 +0200
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-02 10:30:06 +0200
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-06-02 10:30:06 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-02 10:30:06 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-02 10:30:06 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-02 10:30:06 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-02 10:30:06 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-02 10:30:06 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-02 10:30:06 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-02 10:30:06 +0200
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-06-02 10:30:06 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-02 10:30:06 +0200
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-06-02 10:30:06 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-02 10:30:06 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-02 10:30:06 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-02 16:13:08 +0200
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (7.0ms)
+  Rendered layouts/_shim.html.erb (1.6ms)
+  [1m[36mUser Load (0.9ms)[0m  [1mSELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1[0m
+  Rendered layouts/_header.html.erb (421.4ms)
+  Rendered layouts/_footer.html.erb (1.6ms)
+Completed 200 OK in 1433ms (Views: 1297.4ms | ActiveRecord: 27.7ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-02 16:13:10 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-02 16:13:11 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-02 16:13:11 +0200
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-06-02 16:13:11 +0200
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-02 16:13:11 +0200
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-06-02 16:13:11 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-02 16:13:11 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-02 16:13:11 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-02 16:13:11 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-02 16:13:11 +0200
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-06-02 16:13:11 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-02 16:13:11 +0200
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-06-02 16:13:11 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-02 16:13:11 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-02 16:13:11 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-02 16:13:11 +0200
+
+
+Started GET "/signin" for 127.0.0.1 at 2014-06-02 16:14:14 +0200
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (260.2ms)
+  Rendered layouts/_shim.html.erb (1.1ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1
+  Rendered layouts/_header.html.erb (6.2ms)
+  Rendered layouts/_footer.html.erb (8.0ms)
+Completed 200 OK in 386ms (Views: 375.3ms | ActiveRecord: 0.3ms)
+
+
+Started POST "/sessions" for 127.0.0.1 at 2014-06-02 16:14:35 +0200
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Had4bYyd+lo+Qx+FsMz9KCweDhiwUP3rRGvxCribWEc=", "session"=>{"email"=>"house@mail.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+  [1m[36mUser Load (3.5ms)[0m  [1mSELECT  `Users`.* FROM `Users`  WHERE `Users`.`email` = 'house@mail.com' LIMIT 1[0m
+  [1m[35m (0.3ms)[0m  BEGIN
+  [1m[36mSQL (17.4ms)[0m  [1mUPDATE `Users` SET `remember_token` = 'e53b6bb9b4cff1757d85c4901f2d2d6d8a7a4589' WHERE `Users`.`id_user` = 6[0m
+  [1m[35m (7.0ms)[0m  COMMIT
+Redirected to http://localhost:3000/users/6
+Completed 302 Found in 486ms (ActiveRecord: 28.2ms)
+
+
+Started GET "/users/6" for 127.0.0.1 at 2014-06-02 16:14:36 +0200
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"6"}
+  [1m[36mUser Load (0.9ms)[0m  [1mSELECT  `Users`.* FROM `Users`  WHERE `Users`.`id_user` = 6 LIMIT 1[0m
+  Rendered users/show.html.erb within layouts/application (5.7ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  [1m[35mUser Load (1.4ms)[0m  SELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'e53b6bb9b4cff1757d85c4901f2d2d6d8a7a4589' LIMIT 1
+  Rendered layouts/_header.html.erb (6.0ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 160ms (Views: 141.9ms | ActiveRecord: 2.3ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-02 16:14:36 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-02 16:14:36 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-02 16:14:37 +0200
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-06-02 16:14:37 +0200
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-02 16:14:37 +0200
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-06-02 16:14:37 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-02 16:14:37 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-02 16:14:37 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-02 16:14:37 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-02 16:14:37 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-02 16:14:37 +0200
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-06-02 16:14:37 +0200
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-06-02 16:14:37 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-02 16:14:37 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-02 16:14:37 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-02 16:14:37 +0200
+
+
+Started GET "/index" for 127.0.0.1 at 2014-06-02 16:14:43 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.5ms)
+  Rendered layouts/_shim.html.erb (0.5ms)
+  [1m[36mUser Load (0.9ms)[0m  [1mSELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'e53b6bb9b4cff1757d85c4901f2d2d6d8a7a4589' LIMIT 1[0m
+  Rendered layouts/_header.html.erb (5.6ms)
+  Rendered layouts/_footer.html.erb (9.6ms)
+Completed 200 OK in 131ms (Views: 92.2ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/index" for 127.0.0.1 at 2014-06-02 16:15:46 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.3ms)
+  Rendered layouts/_shim.html.erb (0.2ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'e53b6bb9b4cff1757d85c4901f2d2d6d8a7a4589' LIMIT 1
+  Rendered layouts/_header.html.erb (4.2ms)
+  Rendered layouts/_footer.html.erb (0.5ms)
+Completed 200 OK in 120ms (Views: 104.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-02 16:15:46 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-02 16:15:46 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-02 16:15:46 +0200
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-06-02 16:15:46 +0200
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-02 16:15:46 +0200
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-06-02 16:15:46 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-02 16:15:46 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-02 16:15:46 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-02 16:15:46 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-02 16:15:46 +0200
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-06-02 16:15:46 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-02 16:15:46 +0200
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-06-02 16:15:46 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-02 16:15:46 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-02 16:15:46 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-02 16:15:46 +0200
+
+
+Started DELETE "/signout" for 127.0.0.1 at 2014-06-02 16:15:58 +0200
+Processing by SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"Had4bYyd+lo+Qx+FsMz9KCweDhiwUP3rRGvxCribWEc="}
+  [1m[36mUser Load (1.7ms)[0m  [1mSELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'e53b6bb9b4cff1757d85c4901f2d2d6d8a7a4589' LIMIT 1[0m
+  [1m[35m (1.6ms)[0m  BEGIN
+  [1m[36mSQL (0.8ms)[0m  [1mUPDATE `Users` SET `remember_token` = '13cd99a92b3ecb6ac38700837a97fbe7b0700436' WHERE `Users`.`id_user` = 6[0m
+  [1m[35m (16.0ms)[0m  COMMIT
+Redirected to http://localhost:3000/
+Completed 302 Found in 48ms (ActiveRecord: 20.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-02 16:15:58 +0200
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (0.8ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  [1m[36mUser Load (0.7ms)[0m  [1mSELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1[0m
+  Rendered layouts/_header.html.erb (13.1ms)
+  Rendered layouts/_footer.html.erb (0.5ms)
+Completed 200 OK in 115ms (Views: 112.2ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-02 16:15:58 +0200
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-02 16:15:58 +0200
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-06-02 16:15:58 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-02 16:15:58 +0200
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-06-02 16:15:58 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-02 16:15:58 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-02 16:15:58 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-02 16:15:58 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-02 16:15:58 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-02 16:15:58 +0200
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-06-02 16:15:58 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-02 16:15:59 +0200
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-06-02 16:15:59 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-02 16:15:59 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-02 16:15:59 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-02 16:15:59 +0200
+
+
+Started GET "/signup" for 127.0.0.1 at 2014-06-02 16:16:01 +0200
+Processing by UsersController#new as HTML
+  Rendered shared/_error_messages.html.erb (24.2ms)
+  Rendered users/new.html.erb within layouts/application (155.0ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  [1m[35mUser Load (0.3ms)[0m  SELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1
+  Rendered layouts/_header.html.erb (4.3ms)
+  Rendered layouts/_footer.html.erb (0.8ms)
+Completed 200 OK in 235ms (Views: 232.6ms | ActiveRecord: 0.3ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2014-06-02 16:16:50 +0200
+Processing by UsersController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Had4bYyd+lo+Qx+FsMz9KCweDhiwUP3rRGvxCribWEc=", "user"=>{"first_name"=>"User", "last_name"=>"Trzeci", "email"=>"trzeci@example.com", "login"=>"example", "specialization_id"=>"2", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Create my account"}
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35mUser Exists (0.6ms)[0m  SELECT  1 AS one FROM `Users`  WHERE `Users`.`email` = 'trzeci@example.com' LIMIT 1
+  [1m[36mSQL (1.0ms)[0m  [1mINSERT INTO `Users` (`email`, `first_name`, `last_name`, `login`, `password_digest`, `remember_token`, `specialization_id`) VALUES ('trzeci@example.com', 'User', 'Trzeci', 'example', '$2a$10$bQ9/OoBnwpc2OQ825aVIf.Pi9DY9PYvypMa3BLrRyf8LNeGzkOY7S', '846e33bbf739ef7a3ab369e94fba8d9fd6b600ca', 2)[0m
+  [1m[35m (21.1ms)[0m  COMMIT
+  [1m[36m (1.6ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (8.7ms)[0m  UPDATE `Users` SET `remember_token` = 'b4c3cd66c909bcbc86b64104db62e07a6ee9251b' WHERE `Users`.`id_user` = 7
+  [1m[36m (8.6ms)[0m  [1mCOMMIT[0m
+Redirected to http://localhost:3000/users/7
+Completed 302 Found in 596ms (ActiveRecord: 41.8ms)
+
+
+Started GET "/users/7" for 127.0.0.1 at 2014-06-02 16:16:51 +0200
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"7"}
+  [1m[35mUser Load (3.0ms)[0m  SELECT  `Users`.* FROM `Users`  WHERE `Users`.`id_user` = 7 LIMIT 1
+  Rendered users/show.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_shim.html.erb (0.2ms)
+  [1m[36mUser Load (0.8ms)[0m  [1mSELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'b4c3cd66c909bcbc86b64104db62e07a6ee9251b' LIMIT 1[0m
+  Rendered layouts/_header.html.erb (5.0ms)
+  Rendered layouts/_footer.html.erb (0.6ms)
+Completed 200 OK in 104ms (Views: 93.0ms | ActiveRecord: 3.8ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-02 16:16:51 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-02 16:16:51 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-02 16:16:51 +0200
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-06-02 16:16:51 +0200
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-02 16:16:52 +0200
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-06-02 16:16:52 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-02 16:16:52 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-02 16:16:52 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-02 16:16:52 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-02 16:16:52 +0200
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-06-02 16:16:52 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-02 16:16:52 +0200
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-06-02 16:16:52 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-02 16:16:52 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-02 16:16:52 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-02 16:16:52 +0200
+
+
+Started GET "/index" for 127.0.0.1 at 2014-06-02 16:16:57 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (12.7ms)
+  Rendered layouts/_shim.html.erb (0.1ms)
+  [1m[35mUser Load (8.6ms)[0m  SELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'b4c3cd66c909bcbc86b64104db62e07a6ee9251b' LIMIT 1
+  Rendered layouts/_header.html.erb (14.4ms)
+  Rendered layouts/_footer.html.erb (0.5ms)
+Completed 200 OK in 154ms (Views: 142.9ms | ActiveRecord: 8.6ms)
+
+
+Started GET "/index" for 127.0.0.1 at 2014-06-02 16:17:01 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_shim.html.erb (0.2ms)
+  [1m[36mUser Load (10.4ms)[0m  [1mSELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'b4c3cd66c909bcbc86b64104db62e07a6ee9251b' LIMIT 1[0m
+  Rendered layouts/_header.html.erb (24.9ms)
+  Rendered layouts/_footer.html.erb (0.6ms)
+Completed 200 OK in 146ms (Views: 133.1ms | ActiveRecord: 10.4ms)
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-02 16:17:01 +0200
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-02 16:17:01 +0200
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-06-02 16:17:01 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-02 16:17:01 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-02 16:17:02 +0200
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-06-02 16:17:02 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-02 16:17:02 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-02 16:17:02 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-02 16:17:02 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-02 16:17:02 +0200
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-06-02 16:17:02 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-02 16:17:02 +0200
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-06-02 16:17:02 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-02 16:17:02 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-02 16:17:02 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-02 16:17:02 +0200
+
+
+Started DELETE "/signout" for 127.0.0.1 at 2014-06-02 16:18:54 +0200
+Processing by SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"Had4bYyd+lo+Qx+FsMz9KCweDhiwUP3rRGvxCribWEc="}
+  [1m[35mUser Load (0.6ms)[0m  SELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'b4c3cd66c909bcbc86b64104db62e07a6ee9251b' LIMIT 1
+  [1m[36m (7.4ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.7ms)[0m  UPDATE `Users` SET `remember_token` = 'da6b750e055fe2b327bfe8ff99891980fd97f113' WHERE `Users`.`id_user` = 7
+  [1m[36m (46.1ms)[0m  [1mCOMMIT[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 78ms (ActiveRecord: 54.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-02 16:18:54 +0200
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_shim.html.erb (0.3ms)
+  [1m[35mUser Load (0.8ms)[0m  SELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1
+  Rendered layouts/_header.html.erb (5.2ms)
+  Rendered layouts/_footer.html.erb (0.5ms)
+Completed 200 OK in 114ms (Views: 111.8ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-02 16:18:54 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-02 16:18:54 +0200
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-06-02 16:18:54 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-02 16:18:54 +0200
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-06-02 16:18:54 +0200
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-02 16:18:55 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-02 16:18:55 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-02 16:18:55 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-02 16:18:55 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-02 16:18:55 +0200
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-06-02 16:18:55 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-02 16:18:55 +0200
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-06-02 16:18:55 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-02 16:18:55 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-02 16:18:55 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-02 16:18:55 +0200
+
+
+Started GET "/" for 127.0.0.1 at 2014-06-02 18:57:47 +0200
+Processing by StaticPagesController#home as HTML
+  Rendered static_pages/home.html.erb within layouts/application (8.2ms)
+  Rendered layouts/_shim.html.erb (1.9ms)
+  [1m[36mUser Load (1.0ms)[0m  [1mSELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1[0m
+  Rendered layouts/_header.html.erb (423.5ms)
+  Rendered layouts/_footer.html.erb (2.3ms)
+Completed 200 OK in 1523ms (Views: 1396.7ms | ActiveRecord: 4.2ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-02 18:57:49 +0200
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-02 18:57:49 +0200
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-06-02 18:57:49 +0200
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-02 18:57:49 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-02 18:57:49 +0200
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-06-02 18:57:50 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-02 18:57:50 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-02 18:57:50 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-02 18:57:50 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-02 18:57:50 +0200
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-06-02 18:57:50 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-02 18:57:50 +0200
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-06-02 18:57:50 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-02 18:57:50 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-02 18:57:50 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-02 18:57:50 +0200
+
+
+Started GET "/signin" for 127.0.0.1 at 2014-06-02 18:57:52 +0200
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (198.5ms)
+  Rendered layouts/_shim.html.erb (5.2ms)
+  [1m[35mUser Load (0.5ms)[0m  SELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'da39a3ee5e6b4b0d3255bfef95601890afd80709' LIMIT 1
+  Rendered layouts/_header.html.erb (15.8ms)
+  Rendered layouts/_footer.html.erb (1.9ms)
+Completed 200 OK in 308ms (Views: 304.0ms | ActiveRecord: 0.5ms)
+
+
+Started POST "/sessions" for 127.0.0.1 at 2014-06-02 18:58:04 +0200
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"VrDggkm3j2AUOgvpf8KDh51gABXZ8Av/D9SUTqv6Scs=", "session"=>{"email"=>"house@mail.com", "password"=>"[FILTERED]"}, "commit"=>"Sign in"}
+  [1m[36mUser Load (0.9ms)[0m  [1mSELECT  `Users`.* FROM `Users`  WHERE `Users`.`email` = 'house@mail.com' LIMIT 1[0m
+  [1m[35m (0.3ms)[0m  BEGIN
+  [1m[36mSQL (17.9ms)[0m  [1mUPDATE `Users` SET `remember_token` = 'f706ab42b5c26ac1c447bf9d94bbd21a7fea35a7' WHERE `Users`.`id_user` = 6[0m
+  [1m[35m (13.8ms)[0m  COMMIT
+Redirected to http://localhost:3000/users/6
+Completed 302 Found in 580ms (ActiveRecord: 32.9ms)
+
+
+Started GET "/users/6" for 127.0.0.1 at 2014-06-02 18:58:04 +0200
+Processing by UsersController#show as HTML
+  Parameters: {"id"=>"6"}
+  [1m[36mUser Load (2.1ms)[0m  [1mSELECT  `Users`.* FROM `Users`  WHERE `Users`.`id_user` = 6 LIMIT 1[0m
+  Rendered users/show.html.erb within layouts/application (2.2ms)
+  Rendered layouts/_shim.html.erb (0.2ms)
+  [1m[35mUser Load (1.3ms)[0m  SELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'f706ab42b5c26ac1c447bf9d94bbd21a7fea35a7' LIMIT 1
+  Rendered layouts/_header.html.erb (5.4ms)
+  Rendered layouts/_footer.html.erb (0.5ms)
+Completed 200 OK in 133ms (Views: 112.9ms | ActiveRecord: 3.4ms)
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-06-02 18:58:05 +0200
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-02 18:58:05 +0200
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-02 18:58:05 +0200
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-06-02 18:58:05 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-02 18:58:05 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-02 18:58:05 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-02 18:58:05 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-02 18:58:05 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-02 18:58:05 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-02 18:58:05 +0200
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-06-02 18:58:05 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-02 18:58:05 +0200
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-06-02 18:58:05 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-02 18:58:05 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-02 18:58:05 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-02 18:58:05 +0200
+
+
+Started GET "/index" for 127.0.0.1 at 2014-06-02 18:58:09 +0200
+
+ActionController::RoutingError (No route matches [GET] "/index"):
+  actionpack (4.1.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.1) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.1) lib/rails/engine.rb:514:in `call'
+  railties (4.1.1) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /usr/local/rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /usr/local/rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /usr/local/rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (12.2ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (9.7ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (29.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (266.8ms)
+
+
+Started GET "/index" for 127.0.0.1 at 2014-06-02 18:58:09 +0200
+
+ActionController::RoutingError (No route matches [GET] "/index"):
+  actionpack (4.1.1) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.1.1) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.1.1) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.1.1) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.5.2) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.5.2) lib/rack/runtime.rb:17:in `call'
+  activesupport (4.1.1) lib/active_support/cache/strategy/local_cache_middleware.rb:26:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  actionpack (4.1.1) lib/action_dispatch/middleware/static.rb:64:in `call'
+  rack (1.5.2) lib/rack/sendfile.rb:112:in `call'
+  railties (4.1.1) lib/rails/engine.rb:514:in `call'
+  railties (4.1.1) lib/rails/application.rb:144:in `call'
+  rack (1.5.2) lib/rack/lock.rb:17:in `call'
+  rack (1.5.2) lib/rack/content_length.rb:14:in `call'
+  rack (1.5.2) lib/rack/handler/webrick.rb:60:in `service'
+  /usr/local/rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /usr/local/rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /usr/local/rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /usr/local/rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (11.4ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_route.html.erb (17.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/routes/_table.html.erb (23.8ms)
+  Rendered /usr/local/rvm/gems/ruby-2.1.2/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (188.5ms)
+
+
+Started GET "/index" for 127.0.0.1 at 2014-06-02 18:58:57 +0200
+Processing by WelcomeController#index as HTML
+  [1m[36mSchedule Load (1.0ms)[0m  [1mSELECT `Schedules`.* FROM `Schedules`[0m
+  Rendered welcome/index.html.erb within layouts/application (114.0ms)
+  Rendered layouts/_shim.html.erb (1.3ms)
+  [1m[35mUser Load (0.4ms)[0m  SELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'f706ab42b5c26ac1c447bf9d94bbd21a7fea35a7' LIMIT 1
+  Rendered layouts/_header.html.erb (122.5ms)
+  Rendered layouts/_footer.html.erb (1.7ms)
+Completed 200 OK in 913ms (Views: 646.2ms | ActiveRecord: 6.6ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-02 18:58:59 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-02 18:58:59 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-02 18:58:59 +0200
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-06-02 18:58:59 +0200
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-02 18:58:59 +0200
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-06-02 18:58:59 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-02 18:58:59 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-02 18:58:59 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-02 18:58:59 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-02 18:58:59 +0200
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-06-02 18:58:59 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-02 18:58:59 +0200
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-06-02 18:59:00 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-02 18:59:00 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-02 18:59:00 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-02 18:59:00 +0200
+
+
+Started GET "/index" for 127.0.0.1 at 2014-06-02 19:00:14 +0200
+Processing by WelcomeController#index as HTML
+  [1m[36mSchedule Load (0.4ms)[0m  [1mSELECT `Schedules`.* FROM `Schedules`[0m
+  Rendered welcome/index.html.erb within layouts/application (85.1ms)
+  Rendered layouts/_shim.html.erb (1.1ms)
+  [1m[35mUser Load (0.4ms)[0m  SELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'f706ab42b5c26ac1c447bf9d94bbd21a7fea35a7' LIMIT 1
+  Rendered layouts/_header.html.erb (125.6ms)
+  Rendered layouts/_footer.html.erb (1.6ms)
+Completed 200 OK in 842ms (Views: 616.4ms | ActiveRecord: 6.5ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-02 19:00:15 +0200
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-06-02 19:00:16 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-02 19:00:16 +0200
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-02 19:00:16 +0200
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-02 19:00:16 +0200
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-06-02 19:00:16 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-02 19:00:16 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-02 19:00:16 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-02 19:00:16 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-02 19:00:16 +0200
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-06-02 19:00:16 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-02 19:00:16 +0200
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-06-02 19:00:16 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-02 19:00:16 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-02 19:00:16 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-02 19:00:16 +0200
+
+
+Started GET "/help" for 127.0.0.1 at 2014-06-02 19:00:19 +0200
+Processing by StaticPagesController#help as HTML
+  Rendered static_pages/help.html.erb within layouts/application (1.3ms)
+  Rendered layouts/_shim.html.erb (1.1ms)
+  [1m[36mUser Load (0.4ms)[0m  [1mSELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'f706ab42b5c26ac1c447bf9d94bbd21a7fea35a7' LIMIT 1[0m
+  Rendered layouts/_header.html.erb (9.0ms)
+  Rendered layouts/_footer.html.erb (3.0ms)
+Completed 200 OK in 200ms (Views: 179.7ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/index" for 127.0.0.1 at 2014-06-02 19:00:21 +0200
+Processing by WelcomeController#index as HTML
+  [1m[35mSchedule Load (0.4ms)[0m  SELECT `Schedules`.* FROM `Schedules`
+  Rendered welcome/index.html.erb within layouts/application (37.7ms)
+  Rendered layouts/_shim.html.erb (0.2ms)
+  [1m[36mUser Load (0.4ms)[0m  [1mSELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'f706ab42b5c26ac1c447bf9d94bbd21a7fea35a7' LIMIT 1[0m
+  Rendered layouts/_header.html.erb (5.6ms)
+  Rendered layouts/_footer.html.erb (0.5ms)
+Completed 200 OK in 231ms (Views: 228.9ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/index" for 127.0.0.1 at 2014-06-02 19:00:24 +0200
+Processing by WelcomeController#index as HTML
+  [1m[35mSchedule Load (0.3ms)[0m  SELECT `Schedules`.* FROM `Schedules`
+  Rendered welcome/index.html.erb within layouts/application (20.7ms)
+  Rendered layouts/_shim.html.erb (0.2ms)
+  [1m[36mUser Load (6.1ms)[0m  [1mSELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'f706ab42b5c26ac1c447bf9d94bbd21a7fea35a7' LIMIT 1[0m
+  Rendered layouts/_header.html.erb (21.9ms)
+  Rendered layouts/_footer.html.erb (0.5ms)
+Completed 200 OK in 142ms (Views: 133.5ms | ActiveRecord: 6.4ms)
+
+
+Started GET "/index" for 127.0.0.1 at 2014-06-02 19:00:26 +0200
+Processing by WelcomeController#index as HTML
+  [1m[35mSchedule Load (0.9ms)[0m  SELECT `Schedules`.* FROM `Schedules`
+  Rendered welcome/index.html.erb within layouts/application (26.8ms)
+  Rendered layouts/_shim.html.erb (0.2ms)
+  [1m[36mUser Load (4.3ms)[0m  [1mSELECT  `Users`.* FROM `Users`  WHERE `Users`.`remember_token` = 'f706ab42b5c26ac1c447bf9d94bbd21a7fea35a7' LIMIT 1[0m
+  Rendered layouts/_header.html.erb (28.3ms)
+  Rendered layouts/_footer.html.erb (0.5ms)
+Completed 200 OK in 167ms (Views: 159.9ms | ActiveRecord: 5.2ms)
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-06-02 19:00:27 +0200
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at 2014-06-02 19:00:27 +0200
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-06-02 19:00:27 +0200
+
+
+Started GET "/assets/static_pages.css?body=1" for 127.0.0.1 at 2014-06-02 19:00:27 +0200
+
+
+Started GET "/assets/users.css?body=1" for 127.0.0.1 at 2014-06-02 19:00:27 +0200
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-06-02 19:00:27 +0200
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-06-02 19:00:27 +0200
+
+
+Started GET "/assets/fullcalendar.css?body=1" for 127.0.0.1 at 2014-06-02 19:00:27 +0200
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-06-02 19:00:27 +0200
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-06-02 19:00:27 +0200
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.0.0.1 at 2014-06-02 19:00:27 +0200
+
+
+Started GET "/assets/static_pages.js?body=1" for 127.0.0.1 at 2014-06-02 19:00:27 +0200
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-06-02 19:00:27 +0200
+
+
+Started GET "/assets/users.js?body=1" for 127.0.0.1 at 2014-06-02 19:00:27 +0200
+
+
+Started GET "/assets/fullcalendar.js?body=1" for 127.0.0.1 at 2014-06-02 19:00:27 +0200
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-06-02 19:00:27 +0200

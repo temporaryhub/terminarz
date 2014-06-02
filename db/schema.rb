@@ -35,8 +35,12 @@ ActiveRecord::Schema.define(version: 0) do
     t.string  "first_name",        null: false
     t.string  "last_name",         null: false
     t.integer "specialization_id"
+    t.string  "password_digest"
+    t.string  "remember_token"
   end
 
   add_index "Users", ["specialization_id"], name: "specialization_index", using: :btree
+  add_index "Users", ["email"], name: "index_users_on_email", using: :btree
+  add_index "Users", ["remember_token"], name: "index_users_on_remember", using: :btree
 
 end
