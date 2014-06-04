@@ -19,7 +19,7 @@
       <%= f.text_field :login %>
 
       <%= f.label :specialization %>
-      <%= f.number_field :specialization_id %>
+      <%= f.select :specialization_id, Specialization.find_by_sql("select id_specialization from Specializations") %>
 
       <%= f.label :password %>
       <%= f.password_field :password %>
