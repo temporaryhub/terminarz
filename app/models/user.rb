@@ -1,5 +1,5 @@
 class User < ActiveRecord::Base
-	before_save { self.email = email.downcase }
+	before_save { self.email = email.downcase if email }
 	before_create :create_remember_token
     self.table_name = "Users"
     self.primary_key = "id_user"

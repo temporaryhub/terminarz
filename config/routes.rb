@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'schedules/get'
+
   resources :users
   resources :sessions, only: [:new, :create, :destroy]
 
