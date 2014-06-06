@@ -1,10 +1,13 @@
-<% provide(:title, @user.first_name) %>
+<% provide(:title, "Account created") %>
 <div class="row">
   <aside class="span4">
     <section>
-      <h1>
-        <%= @user.first_name %>
-      </h1>
+      <h1>Your account information:</h1><br>
+        <p><strong>First name: </strong><%= @user.first_name %><br>
+           <strong>Last name: </strong><%= @user.last_name %><br>
+           <strong>Login: </strong><%= @user.login %><br>
+           <strong>E-mail: </strong><%= @user.email %><br>
+           <strong>Account type: </strong><% if @user.specialization %>doctor<% else %>patient<% end %></p>
     </section>
   </aside>
 </div>

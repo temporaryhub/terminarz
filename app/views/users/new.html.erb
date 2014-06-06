@@ -19,7 +19,7 @@
       <%= f.text_field :login %>
 
       <%= f.label :specialization %>
-      <%= f.select :specialization_id, Specialization.find_by_sql("select id_specialization from Specializations") %>
+      <%= select("user", "specialization_id", Specialization.all.collect {|s| [ s.name, s.id_specialization ] }, {prompt: 'Select specialization (doctors only)'}) %>
 
       <%= f.label :password %>
       <%= f.password_field :password %>
