@@ -1,8 +1,4 @@
-<% provide(:title, '')%>
-
-<%= javascript_tag do %>
-  window.schedules = <%= raw @schedules.to_json; %>
-<% end %>
+<% provide(:title, 'Calendar')%>
 
 <div id='calendar'>
 </div>

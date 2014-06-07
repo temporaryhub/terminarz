@@ -44,4 +44,4 @@ gem 'spring',        group: :development
 
 gem 'fullcalendar-rails'
 gem 'node'
-
+gem 'jquery-datetimepicker-rails'

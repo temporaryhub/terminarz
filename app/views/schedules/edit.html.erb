@@ -1,0 +1,42 @@
+<% provide(:title, 'Edit appointment') %>
+<h1>Edit appointment</h1>
+
+<div class="row">
+  <div class="span6 offset3">
+    <%= form_for :schedule, url: schedule_path(@schedule), method: :patch do |f| %>
+		<% if @schedule.errors.any? %>
+			<div id="error_explanation">
+				<h2><%= pluralize(@schedule.errors.count, "error") %> prohibited
+				this appointment from being saved:</h2>
+				<ul>
+					<% @schedule.errors.full_messages.each do |msg| %>
+					<li><%= msg %></li>
+					<% end %>
+				</ul>
+			</div>
+		<% end %>
+        <% if current_user.specialization_id == nil %>
+		<%= f.label :doctor_id, "Doctor:" %>
+      	<%= select("schedule", "doctor_id", User.where('specialization_id IS NOT NULL').collect {|u| [ u.first_name+' '+u.last_name, u.id_user ] }, {prompt: 'Pick whoever you like'}) %>
+
+		<%= f.hidden_field :patient_id, :value => current_user.id %>
+		<% else %>
+		<%= f.label :patient_id, "Patient:" %>
+      	<%= select("schedule", "patient_id", User.where('specialization_id IS NULL').collect {|u| [ u.first_name+' '+u.last_name, u.id_user ] }, {prompt: 'Pick whoever you like'}) %>
+
+		<%= f.hidden_field :doctor_id, :value => current_user.id %>
+		<% end %>
+
+		<%= f.label :start_date, "Begins at:" %>
+		<%= f.datetime_field :start_date, class: "datetimepicker" %>
+
+		<%= f.label :end_date, "Ends at:" %>
+		<%= f.datetime_field :end_date, class: "datetimepicker" %>
+
+		<%= f.label :descirption %>
+		<%= f.text_area :descirption %>
+
+		<%= f.submit "Edit appointment", class: "btn btn-large btn-primary" %>
+	<% end %>
+  </div>
+</div>

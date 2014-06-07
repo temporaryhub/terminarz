@@ -5,6 +5,7 @@
       <nav>
         <ul class="nav pull-right">
           <% if signed_in? %>
+          <li><%= link_to "Add appointment", new_schedule_path %></li>
           <li><%= link_to "Calendar", index_path %></li>
           <li><%= link_to "Sign out", signout_path, method: "delete" %></li>
           <% else %>

@@ -2,14 +2,9 @@
 # All this logic will automatically be available in application.js.
 # You can use CoffeeScript in this file: http://coffeescript.org/
 jQuery ->
-	$('#calendar').fullCalendar({
-		timeFormat: 'H:mm',
-		events: 'schedules/get/',
-		eventClick: `function(calEvent, jsEvent, view) {
-			alert(calEvent.desc);
-		}`
-	});
-
-
-	for schedule in schedules
-		s = schedule
+	$(document).on('ready page:load', `function() {
+		$('#calendar').fullCalendar({
+			timeFormat: 'H:mm',
+			events: 'schedules/get/'
+		});
+	}`);

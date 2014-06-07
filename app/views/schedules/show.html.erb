@@ -1,0 +1,19 @@
+<% provide(:title, "Appointment") %>
+<div class="row">
+    <section>
+      <% if @schedule == nil %>
+	  <h1>Appointment not found</h1>
+      <% else %>
+      <h1>Appointment details:</h1><br>
+      <p>	<% if current_user.specialization %>
+			<strong>Patient: </strong><%= @schedule.patient.first_name %> <%= @schedule.patient.last_name %> <br>
+			<% else %>
+			<strong>Doctor: </strong><%= @schedule.doctor.first_name %> <%= @schedule.doctor.last_name %> <br>
+			<% end %>
+			<strong>Starts at: </strong><%= @schedule.start_date %><br>
+			<strong>Ends at: </strong><%= @schedule.end_date %><br>
+			<strong>Description: </strong><%= @schedule.descirption %><br></p>
+		<p>You can <%= link_to 'edit', edit_schedule_path(@schedule) %> or <%= link_to 'delete', schedule_path(@schedule), method: :delete, data: { confirm: 'Are you sure?' } %> this appointment.</p>
+      <% end %>
+    </section>
+</div>

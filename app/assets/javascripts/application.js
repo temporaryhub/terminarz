@@ -15,3 +15,5 @@
 //= require turbolinks
 //= require_tree .
 //= require fullcalendar
+//= require jquery.datetimepicker
+//= require jquery.datetimepicker/init
